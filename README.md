@@ -76,8 +76,3 @@ function renderresult(data) {
   marker.bindPopup(`<b>${data.ip}</b>`).openPopup();
 }
 ```
-
-## Author
-- Website - [Jitesh117](https://my-project-green-zeta.vercel.app/)
-- Frontend Mentor - [@Jitesh117](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@Jitesh_117](https://www.twitter.com/yourusername)
